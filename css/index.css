@@ -1,0 +1,59 @@
+@import url(./reset.css);
+@import url(./../font/iconfont.css);
+
+body {
+    min-width: 600px;
+}
+
+/* 提示 */
+#message {
+    width: 210px;
+    height: 200px;
+    background-color: rgb(255, 187, 0);
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    position: absolute;
+    left: 30px;
+    top: 30%;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#message p {
+    line-height: 60px;
+}
+
+#message h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* 容器样式 */
+#container {
+    width: 600px;
+    height: 600px;
+    background-color: #008c8c;
+    border: 20px solid#13485783;
+    position: relative;
+    margin: 20px auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 按钮样式 */
+.section .iconfont {
+    background-color: transparent;
+    color: #fff;
+    font-size: 50px;
+}
+
+.section .icon-youxi {
+    display: block;
+}
+
+.section .icon-zanting {
+    display: none;
+}

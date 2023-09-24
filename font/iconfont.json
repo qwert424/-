@@ -1,0 +1,51 @@
+{
+  "id": "4053997",
+  "name": "贪吃蛇",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1488905",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3872049",
+      "name": "热度",
+      "font_class": "redu",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "4276967",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "5033821",
+      "name": "苹果",
+      "font_class": "pingguo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9255921",
+      "name": "龙侧面",
+      "font_class": "longcemian",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "10549338",
+      "name": "新年-02",
+      "font_class": "xinniantubiao-shangchuantubiaoku-",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}
